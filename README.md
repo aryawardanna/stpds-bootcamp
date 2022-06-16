@@ -25,6 +25,16 @@ Owner [https://aryawardanna.site]
 -   http://localhost:8000/login/admin
 -   http://localhost:8000/
 
+## Features
+
+-   [Login Oauth Google](#google)
+-   [Using Email Mailtrap](#mailtrap)
+-   [Admin](#admin)
+-   [User](#user)
+-   [Socialite](#socialite)
+-   [Breeze](#breeze)
+-   [Manual Payment](#payment)
+
 ## Additional Features
 
 -   [CRUD Mentor](#mentor)
