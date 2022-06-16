@@ -1,4 +1,4 @@
-## Project Stpds Bootcanp [[![Awesome]] - On Progress
+## Project Stpds Bootcanp [Awesome] - On Progress
 
 > This project was just made for fun, to add to my portfolio. I hope if I have more time I can finish this project quickly
 
@@ -31,3 +31,5 @@ Owner [https://aryawardanna.site]
 -   [Payment Gateway](#payment)
 -   [CRUD Camp](#camp)
 -   [Login using JWT](#jwt)
+
+## Using Laravel 8
